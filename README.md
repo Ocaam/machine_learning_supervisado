@@ -1,2 +1,2 @@
 # machine_learning_supervisado
-Master
+Master en Data Science
